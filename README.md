@@ -3,7 +3,7 @@
 Create postgresql database and import file from backend/data.sql
 dotnet run
 
-**Frontend
+**Frontend**
 
 npm install
 npm run build // npm run start
